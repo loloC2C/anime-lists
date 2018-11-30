@@ -3075,8 +3075,12 @@
   <anime anidbid="825" tvdbid="hentai" defaulttvdbseason="1">
     <name>Custom Reido</name>
   </anime>
-  <anime anidbid="826" tvdbid="72775" defaulttvdbseason="a">
+  <anime anidbid="826" tvdbid="72775" defaulttvdbseason="1">
     <name>Saint Seiya</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="74" end="99" offset="-88"/>
+      <mapping anidbseason="1" tvdbseason="3" start="100" end="114" offset="-114"/>
+    </mapping-list>
   </anime>
   <anime anidbid="828" tvdbid="144961" defaulttvdbseason="1">
     <name>Yuugen Kaisha</name>
